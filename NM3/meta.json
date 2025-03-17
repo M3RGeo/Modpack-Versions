@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "hotfixesFormat": null,
+  "versions": [
+    {
+        "id": "3.0.0",
+        "releasedAt": 1738443893862,
+        "promotions": {
+            "downloads": {
+                "generic": "https://github.com/M3RGeo/Modpack-Versions/tree/main/NM3/MP_DL/"
+            }
+        }
+    }
+  ]
+}
