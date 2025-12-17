@@ -1,2 +1,2 @@
 # Modpack-Versions
-Repository hosting my modpack version checker files for my private modpacks
+Repository hosting my modpack version checker files & Changelogs for my private & Public modpacks
