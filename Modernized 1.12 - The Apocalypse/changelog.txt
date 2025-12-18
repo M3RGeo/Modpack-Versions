@@ -14,7 +14,7 @@ Added The following Mods
 - Banner Patterns [Backport + Features]
 - FoxFriend [Backport + Features]
 - Brown Mooshrooms [Backport]
-- Scaffolding Backported
+- Scaffolding Backported [Backport]
 - Campfire [Backport + Features]
 - Noteblock Backport [Backport]
 - Traders Backport [Backport + Features]
