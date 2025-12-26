@@ -1,34 +1,40 @@
 V0.1
 ====
 Added The following Mods
-- Recurrent Complex [for it's included structures]
-- Brigo [More a Dev tool but autocomplete commands]
-- IvToolkit [Dependancy]
-- Pale Bloom [Backport]
-- Cherry_on_1.12.2 [Backport]
-- Bundles [Backport]
-- Mace [Backport]
-- [SBM] Jukebox [Backport + Features]
-- Cave Generator [World Gen Customisation]
-- What Looms Ahead [Backport + Features]
-- Banner Patterns [Backport + Features]
-- FoxFriend [Backport + Features]
-- Brown Mooshrooms [Backport]
-- Scaffolding Backported [Backport]
-- Campfire [Backport + Features]
-- Noteblock Backport [Backport]
-- Traders Backport [Backport + Features]
-- Proper Pumpkins Mod [Backport]
-- Not Enough Pets [Backport + Features]
-- HappyGhast [Backport]
-- Fluidlogged API [Backport + Dependancy]
-- FastEntityRender [Optimisations]
-- Astatine [Optimisations]
-- Unseens Nether Backport [Backport]
+- Another Tips [Replaces the Tips Mod]
 - Anvil Patch - Lawful [Balance]
-- Fluxloading [QOL]
+- Astatine [Optimisations]
+- Banner Patterns [Backport + Features]
+- Brigo [More a Dev tool but autocomplete commands]
+- Brown Mooshrooms [Backport]
+- Bundles [Backport]
+- Campfire [Backport + Features]
+- Cave Generator [World Gen Customisation]
+- Celeritas [Replaces Optifine]
+- Cherry_on_1.12.2 [Backport]
 - Debark [Backport]
+- Mace [Backport]
+- FastEntityRender [Optimisations]
+- Fluidlogged API [Backport + Optional Dependancy]
+- Fluxloading [QOL]
+- FoxFriend [Backport + Features]
+- Friendly Chests [Backport]
+- Geckolib [Dependancy]
+- HappyGhast [Backport]
 - Hit Indication [QOL + HUD]
+- IvToolkit [Dependancy]
+- Just Enough Pattern Banners [QOL]
+- Lemonskin [Replaced Appleskin]
+- Noteblock Backport [Backport]
+- Not Enough Pets [Backport + Features]
+- Pale Bloom [Backport]
+- Proper Pumpkins Mod [Backport]
+- Recurrent Complex [for it's included structures]
+- [SBM] Jukebox [Backport + Features]
+- Scaffolding Backported [Backport]
+- Traders Backport [Backport + Features]
+- Unseens Nether Backport [Backport]
+- What Looms Ahead [Backport + Features]
 
 Updated the following existing mod configs
 - Crash Assistant
@@ -37,9 +43,18 @@ Updated the following existing mod configs
 - Mod Director (Incomplete - Lots of changes needs to be implemented still)
 - Simple Discord RPC
 
+Updated mods:
+- Crash Assistant (1.10.27 > 1.10.28)
+- Fugue (0.22.4 > 0.22.6)
+- Jei (4.29.12 > 4.29.13)
+- Nether_Api (v1.3.0-mc1.12.2 > 1.4.2)
+- Roidtweaker (1.2.1 > 1.2.2)
+- Zenutils (1.26.9 > 1.26.10)
+
 Removed/Replaced the following Mods and Configs
 - Appleskin (Lemonskin)
 - Nothirium [Removed]
+- Naughthirium [Removed]
 - Optifine (Celeritas)
 - Optifinecitpatch[Removed]
 - Tips (AnotherTips)
