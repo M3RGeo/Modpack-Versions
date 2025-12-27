@@ -13,27 +13,37 @@ Added The following Mods
 - Celeritas [Replaces Optifine]
 - Cherry_on_1.12.2 [Backport]
 - Debark [Backport]
+- Deep Mob Evolution [Technology & Resources]
 - Mace [Backport]
 - FastEntityRender [Optimisations]
 - Fluidlogged API [Backport + Optional Dependancy]
 - Fluxloading [QOL]
 - FoxFriend [Backport + Features]
 - Friendly Chests [Backport]
-- Geckolib [Dependancy]
 - HappyGhast [Backport]
 - Hit Indication [QOL + HUD]
+- Hyxcate [Astrological Events]
+- Immersive Combat [Combat Enhancement]
 - IvToolkit [Dependancy]
 - Just Enough Pattern Banners [QOL]
+- JourneyMap Gamestages Continued [QOL]
+- JourneyMap Waypoint Syncing [QOL]
+- JourneyMap Fixes [Bugfixes]
+- JourneyMap
 - Lemonskin [Replaced Appleskin]
 - Noteblock Backport [Backport]
 - Not Enough Pets [Backport + Features]
 - Pale Bloom [Backport]
+- Patchouli ROFL [Dependancy]
 - Proper Pumpkins Mod [Backport]
 - Recurrent Complex [for it's included structures]
+- Rough Mobs Revamped [Features]
+- Saurialib [Dependancy {Replaces Geckolib}]
 - [SBM] Jukebox [Backport + Features]
 - Scaffolding Backported [Backport]
 - Traders Backport [Backport + Features]
 - Unseens Nether Backport [Backport]
+- Waystones [QOL & Features]
 - What Looms Ahead [Backport + Features]
 
 Updated the following existing mod configs
@@ -58,3 +68,6 @@ Removed/Replaced the following Mods and Configs
 - Optifine (Celeritas)
 - Optifinecitpatch[Removed]
 - Tips (AnotherTips)
+- Geckolib (Saurialib)
+
+Updated to Cleanroom 0.3.31-alpha
